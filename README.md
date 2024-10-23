@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+Please feel free to browse the works outlined in my resume and my works loved by communities.
 
 <!--
 **jaehee-codes/jaehee-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
